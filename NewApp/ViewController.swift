@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         let one = ""
         let two = ""
         print("d")
-
+        print("d")
         print("d")
         print("d")
         // Do any additional setup after loading the view.
