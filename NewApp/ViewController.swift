@@ -13,10 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hi")
         let one = ""
-        print("")
+        let two = ""
+        print("d")
 
-        print("")
-        print("")
+        print("d")
+        print("d")
         // Do any additional setup after loading the view.
     }
 
